@@ -1,0 +1,7 @@
+{
+   "name": "Onixcoin",
+   "symbol": "ONX",
+   "algorithm": "x11",
+   //"mposDiffMultiplier": 256,
+   "peerMagic": "fec4bade"
+}
